@@ -24,13 +24,13 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kwelch/babel-plugin-captains-log.git"
+    "url": "https://github.com/zhy1/babel-plugin-console-convert-logger.git"
   },
   "bugs": {
-    "url": "https://github.com/kwelch/babel-plugin-captains-log/issues"
+    "url": "https://github.com/zhy1/babel-plugin-console-convert-logger/issues"
   },
-  "homepage": "https://github.com/kwelch/babel-plugin-captains-log#readme",
-  "description": "Babel plugin that injects helpful details into console statements",
+  "homepage": "https://github.com/zhy1/babel-plugin-console-convert-logger#readme",
+  "description": "Babel plugin that injects helpful details into console statements and convert to logger",
   "devDependencies": {
     "all-contributors-cli": "^4.3.0",
     "babel-cli": "^6.24.1",
