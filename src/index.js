@@ -16,7 +16,7 @@ const scopeHandlers = {
 };
 
 export default function({ types: t }) {
-  const name = 'babel-plugin-captains-log';
+  const name = 'babel-plugin-console-convert-logger';
   const callExpressions = new Set();
   const evaluatedExpressions = new Set();
   return {
